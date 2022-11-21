@@ -1,7 +1,7 @@
 {
   name: "@onetimenft",
   description: "Very fake NFT",
-  image: "",
+  image: "https://raw.githubusercontent.com/disintar/onetimenft/main/veryfake.jpeg",
   attributes: [{
       trait_type: "Type",
       value: "Fake"
