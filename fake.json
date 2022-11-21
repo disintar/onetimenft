@@ -1,0 +1,9 @@
+{
+  name: "@onetimenft",
+  description: "Very fake NFT",
+  image: "",
+  attributes: [{
+      trait_type: "Type",
+      value: "Fake"
+  }]
+}
