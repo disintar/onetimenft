@@ -1,0 +1,6 @@
+{ 
+	"name":"onetimejetton",
+  	"description": "Onetime fake jetton",
+  	"symbol": "OTJ",
+	"image": "https://raw.githubusercontent.com/disintar/onetimenft/main/fakeone.png"
+}
